@@ -1,0 +1,138 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.toph3{
+    margin-top: 10px;
+    margin-left: 13px;
+    height: 24px;
+    width: 98%;
+    border: 1px solid black;
+    background-image: linear-gradient( to right, red,rgb(16, 124, 16), rgb(100, 172, 100),yellow);
+    text-align: center;
+    text-decoration: underline ;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+}
+.topdiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.topul {
+    height: 100px;
+    width: 740px;
+    border: 2px solid red;
+    background-color: aquamarine;
+    border-radius: 15px;
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    
+
+}
+.ul {
+    display: inline-block;
+    margin-top: 18px;
+}
+
+.main {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 13px;
+}
+
+.main-container {
+    height: 195px;
+    width: 98%;
+    border: 2px solid black;
+    background-color: rgb(31, 212, 152);
+    border-radius: 10px;
+     display: flex;
+     flex-wrap: wrap;
+    
+
+}
+.midh3 {
+    height: 25px;
+    width: 98%;
+    border: 2px solid blueviolet;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 25px;
+    background-image: linear-gradient( to right, red,rgb(214, 141, 6),yellow,yellow,rgb(175, 118, 11),red);
+    border: none;
+    margin-left: 13px;
+
+}
+
+.jee {
+    height: 210px;
+    width: 98%;
+    border: none;
+    border: 0px solid black;
+    margin-top: -13px;
+    margin-left: 13px;
+    background-image: repeating-radial-gradient(blue,aqua,green);
+
+}
+
+.jee-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    margin: 43px;
+    
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.jee11 {
+    height: 120px;
+    width: 190px;
+    border: 2px solid red;
+    background-color: yellow;
+    text-decoration: underline;
+    color: brown;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 42px;
+    
+    
+}
+
+.main-career {
+    border: 2px solid black;
+    margin-left: 13px;
+    height: 315px;
+    width: 92%;
+    border-radius: 0px;
+    margin-top: 7px;
+
+}
+
+.career-container {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.careerh3 {
+    height: 70px;
+    width: 330px;
+    border: 2px solid black;
+    border: none;
+    color: azure;
+    background-color: rgb(81, 216, 81);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 900;
+}
